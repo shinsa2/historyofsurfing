@@ -1,0 +1,11 @@
+body {
+  background-image: url(https://ssl.quiksilver.com/static/QS/default/category-assets/marketing-landing/landing/build/img/surf/tiles/surf_featured_1.jpg);
+  background-size: cover;
+}
+
+
+h1, h2, p {
+  font-family: 'Roboto', Felipa;
+  color: red;
+}
+
