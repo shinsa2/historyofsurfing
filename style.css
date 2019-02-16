@@ -5,7 +5,15 @@ body {
 
 
 h1, h2, p {
-  font-family: 'Roboto', Felipa;
+  font-family: 'Roboto', sans-serif;
   color: red;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 200px;
 }
 
